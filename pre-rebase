@@ -1,0 +1,4 @@
+#!/bin/sh
+echo Rebase is disabled on this repository
+
+exit 1
